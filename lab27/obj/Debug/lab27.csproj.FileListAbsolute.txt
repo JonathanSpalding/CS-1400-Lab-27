@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\lab27\lab27\bin\Debug\lab27.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\lab27\lab27\bin\Debug\lab27.exe
+c:\users\jon\documents\visual studio 2015\Projects\lab27\lab27\bin\Debug\lab27.pdb
+c:\users\jon\documents\visual studio 2015\Projects\lab27\lab27\obj\Debug\lab27.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\lab27\lab27\obj\Debug\lab27.exe
+c:\users\jon\documents\visual studio 2015\Projects\lab27\lab27\obj\Debug\lab27.pdb
